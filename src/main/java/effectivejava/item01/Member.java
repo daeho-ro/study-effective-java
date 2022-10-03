@@ -1,4 +1,4 @@
-package main.java.effectivejava.item01;
+package effectivejava.item01;
 
 import java.util.UUID;
 

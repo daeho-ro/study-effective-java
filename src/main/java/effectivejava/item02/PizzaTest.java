@@ -1,4 +1,4 @@
-package main.java.effectivejava.item02;
+package effectivejava.item02;
 
 public class PizzaTest {
 
